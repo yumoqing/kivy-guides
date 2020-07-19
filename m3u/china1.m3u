@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="http://epg.51zmt.top:8000/e.xml"
+#EXTM3U
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="特別", 頭條新聞
 https://rthkvod1-vh.akamaihd.net/i/mp4/tv/2020/HELXCT2020M04600019.smil/master.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="" group-title="特別", 央视每日天气预报
